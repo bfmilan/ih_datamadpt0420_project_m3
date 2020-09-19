@@ -4,6 +4,8 @@
 ## **Data:**
 
 Dataset can be found in the data folder as diamonsds_predict.csv. This dataset is also available in Kaggle (https://www.kaggle.com/c/dataptmad0420), though there may be some restrictions. 
+
+
 ---
 
 ## **Method:**
